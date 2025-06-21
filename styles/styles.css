@@ -1,0 +1,36 @@
+.body{
+    background-color: rgb(50, 51, 62);
+}
+.nav{
+    background-color: rgb(156, 147, 145)
+}
+
+.titulo1{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+.titulo1 span{
+    color: rgb(156, 147, 145)
+}
+
+.logo .logo-1{
+    width: 25px;
+    height: 25px;
+    margin-left: 20px;
+}
+
+.nav .nav-list{
+    list-style: none;
+}
+
+.nav .url{
+    text-decoration: none;
+    color: black;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 100;
+    font-style: normal;
+}
